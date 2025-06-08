@@ -7,6 +7,7 @@ This project is divided into 3 folders which are:
 * Testing
 * RPi3
 * AVR
+
 As the names suggest they contain files related to those parts of the project.
 
 ## Notes
