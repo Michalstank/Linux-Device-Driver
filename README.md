@@ -12,3 +12,8 @@ As the names suggest they contain files related to those parts of the project.
 
 ## Notes
 Due to the small scope of the project a .gitignore file was not included.
+
+## TODO:
+* Implement a simple char driver
+* Implement a simple block driver
+* Implement a simple network driver
