@@ -15,5 +15,8 @@ Due to the small scope of the project a .gitignore file was not included.
 
 ## TODO:
 * Implement a simple char driver
+    - Add a circular buffer
+    - Log data in the buffer on write
+    - Read data from buffer on read
 * Implement a simple block driver
 * Implement a simple network driver
